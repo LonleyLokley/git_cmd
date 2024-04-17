@@ -95,9 +95,13 @@ change branch to main (GitHub only main)
 git branch -M main
 ```
 
-
-
-
-
+конфигуратор учетных данных
+```sh
+git config --global --edit
+```
+редактор коммитов
+```sh
+git commit --amend
+```
 
 https://learngitbranching.js.org/?locale=ru_RU
