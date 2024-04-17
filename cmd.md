@@ -65,7 +65,7 @@ cherry-pick
 reset
 revert
 rebase
-merge
+
 
 
 ## GitHub
